@@ -1,1 +1,2 @@
-# Repositório Remoto\n ### Descrição inserida no repositório remoto antes do clone
+# Repositório Remoto Depois do Clone
+### 🎞 Descrição inserida no repositório remoto depois do clone
